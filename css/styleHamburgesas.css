@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+header {
+    background-color: #343a40;
+    color: white;
+    padding: 1em 0;
+}
+h1 {
+    margin: 0;
+}
+.content {
+    padding: 2em;
+}
+.burger {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1em;
+    margin: 1em;
+    background-color: white;
+    display: inline-block;
+    width: 200px;
+}
+.burger img {
+    width: 100%;
+    border-radius: 8px;
+}
+.burger h2 {
+    font-size: 1.2em;
+    margin: 0.5em 0;
+}
+.burger p {
+    font-size: 0.9em;
+    color: #555;
+}
