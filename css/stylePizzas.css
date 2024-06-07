@@ -1,5 +1,5 @@
 body{
-    background: #EC6C35;
+    background: #d1541f;
     height: 100vh;
     margin: 0;
 }
@@ -8,6 +8,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
     
     
 }
